@@ -1,0 +1,27 @@
+[
+  {
+    "PanchayatId": 100,
+    "BlockId": 1,
+    "Name": "Pattinamkathan"
+  },
+  {
+    "PanchayatId": 101,
+    "BlockId": 1,
+    "Name": "Madakotan"
+  },
+  {
+    "PanchayatId": 102,
+    "BlockId": 1,
+    "Name": "Therbogi"
+  },
+  {
+    "PanchayatId": 103,
+    "BlockId": 1,
+    "Name": "Atrangarai"
+  },
+  {
+    "PanchayatId": 104,
+    "BlockId": 1,
+    "Name": "Puthuvalasai"
+  },
+]

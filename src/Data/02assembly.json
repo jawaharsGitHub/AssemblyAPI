@@ -1,0 +1,22 @@
+[
+  {
+    "AssemblyId": 210,
+    "DistrictId": 31,
+    "Name": "Thiruvadanai"
+  },
+  {
+    "AssemblyId": 211,
+    "DistrictId": 31,
+    "Name": "Ramanathapuram"
+  },
+  {
+    "AssemblyId": 212,
+    "DistrictId": 31,
+    "Name": "Paramakudi"
+  },
+  {
+    "AssemblyId": 213,
+    "DistrictId": 31,
+    "Name": "Muthukulathur"
+  }
+]
